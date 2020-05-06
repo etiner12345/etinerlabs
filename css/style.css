@@ -95,6 +95,7 @@ canvas{
   background-repeat: no-repeat;
 	justify-content: center;
 	align-items: center;
+	z-index: 0;
 }
 
 .particles-js-canvas-el {
